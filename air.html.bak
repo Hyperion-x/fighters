@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Fighters</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="header" >
+		<div class="wrap">
+			<h1>World of Warplains</h1>
+			<ul>
+				<li><a href="#">О нас</a></li>
+				<li><a href="#">Контакты</a></li>
+				<li><a href="#">Галерея</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="content" class="wrap">
+		<div class="sidebar">
+			<ul>
+				<li><a href="#"><b>Воздушные суда</b></a></li>
+				<li class="object"><a href="#">Самолеты</a></li>
+				<li class="object"><a href="#">Вертолеты</a></li>
+				<li class="object"><a href="#">Конвертопланы</a></li>
+			</ul>			
+		</div>
+		<div class="products">
+			<h2>Летательные аппараты</h2>
+			
+		</div>
+	</div>
+	<div id="footer">
+		Warplains Inc <br>
+		Developed by Demetriy <br>
+		Copyright &copy 2018
+	</div>
+</body>
+</html>
